@@ -1,2 +1,2 @@
-# Airport-management-system
+# Airport++
 Airport management system using c++ (oop)
